@@ -1,0 +1,13 @@
+*{
+    box-sizing: content-box;
+    background-color:gray;
+}
+
+#characters {
+    
+    gap: 10px;
+    display: flex;
+  flex-direction:row-reverse;
+ 
+}
+
